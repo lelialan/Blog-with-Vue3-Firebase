@@ -1,5 +1,5 @@
 # dojo-blog
-
+![專案圖片](public/Vue-Blog.png)
 ## Project setup
 ```
 npm install
